@@ -1,0 +1,15 @@
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/bin/Debug/net7.0/HunterLogic
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/bin/Debug/net7.0/HunterLogic.deps.json
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/bin/Debug/net7.0/HunterLogic.runtimeconfig.json
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/bin/Debug/net7.0/HunterLogic.dll
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/bin/Debug/net7.0/HunterLogic.pdb
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.csproj.AssemblyReference.cache
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.AssemblyInfoInputs.cache
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.AssemblyInfo.cs
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.csproj.CoreCompileInputs.cache
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.dll
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/refint/HunterLogic.dll
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.pdb
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/HunterLogic.genruntimeconfig.cache
+/Users/maele/SchoolWork/Other/GitPlay/PriceHunterMB/Backend/HunterLogic/HunterLogic/obj/Debug/net7.0/ref/HunterLogic.dll
